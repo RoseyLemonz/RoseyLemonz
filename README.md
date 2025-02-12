@@ -1,5 +1,5 @@
 ### Heyo!
-Currently a software developer student in Finland
+Currently studying software development in Finland
 
 I'm also interested in music, video editing and cooking
 
