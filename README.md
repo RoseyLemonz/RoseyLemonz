@@ -1,5 +1,5 @@
 ### Heyo!
-I'm trying to learn programming, but the most "programming" I've done is on TF2 HUDs 
+Currently a software developer student in Finland
 
 I'm also interested in music, video editing and cooking
 
